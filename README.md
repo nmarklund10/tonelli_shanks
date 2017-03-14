@@ -1,6 +1,6 @@
 # tonelli_shanks
 MATH 471 Project 1
-Program solves for x in equation: x^2 = a mod p
+Program solves for x in equation: x^2 = a mod p.  Used GMP Big Integer Library.
 
 # To compile:
   Type "make" in command line
